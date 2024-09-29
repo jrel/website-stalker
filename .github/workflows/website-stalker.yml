@@ -1,0 +1,34 @@
+name: website-stalker
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 * * * *" # once per hour at minute 7
+
+permissions:
+  contents: write
+
+jobs:
+  website-stalker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: EdJoPaTo/website-stalker-github-action@v1
+      - uses: actions/checkout@v4
+      - name: Install OpenVPN
+        run: |
+          sudo apt update
+          sudo apt install -y openvpn openvpn-systemd-resolved
+          echo "${{ secrets.OPENVPN_CONFIG }}" | base64 -d > client.ovpn
+      - name: Connect to VPN
+        uses: "kota65535/github-openvpn-connect-action@v2"
+        with:
+          config_file: client.ovpn
+          username: ${{ secrets.OPENVPN_USER }}
+          password: ${{ secrets.OPENVPN_PASS }}
+      - name: Run website-stalker
+        id: website-stalker
+        run: website-stalker run --all --commit
+
+      - if: success() || steps.website-stalker.outcome == 'failure'
+        run: git push

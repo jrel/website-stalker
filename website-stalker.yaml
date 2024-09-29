@@ -1,0 +1,10 @@
+---
+from: jrelourenco@outlook.pt
+sites:
+  - url: https://www.acss.min-saude.pt/2019/02/11/fisica-medica/
+    filename: acss/fisica-medica.html
+    editors:
+      - css_select: "#MBV_Main"
+      - css_remove: script
+      - html_url_canonicalize
+      - html_markdownify
