@@ -11,6 +11,8 @@ Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento
 
 **Alertas**
 
+* **Lista definitiva de admitidos e excluídos ao procedimento concursal para ingresso na formação especializada em Física Médica (01.10.2024)**
+  Consulte [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-01.10.2024-.pdf) a lista definitiva de admitidos e excluídos ao Procedimento Concursal para Ingresso na formação especializada em Física Médica 2025. Da lista cabe recurso para o Conselho Diretivo da ACSS, I.P, apresentado através do portal das candidaturas, entre os dias 2 a 8 de outubro.
 * **Publica-se a Lista provisória de admitidos e excluídos ao Procedimento Concursal para Ingresso na formação especializada em Física Médica (20.09.2024)**
   Consulte [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM_Lista-provisoria-de-admitidos-e-excluidos_20.09.2024.pdf) a lista provisória de admitidos e excluídos ao procedimento concursal para ingresso **na formação especializada em Física Médica** **2025**. Da lista provisória caberá reclamação para o júri do concurso, apresentado através do portal das candidaturas, entre os dias 23 e o dia 27 de setembro.
 * **Abertura de procedimento concursal para o ingresso na formação especializada em física médica (04/09/2024)**
