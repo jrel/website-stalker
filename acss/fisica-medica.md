@@ -11,6 +11,11 @@ Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento
 
 **Alertas**
 
+* Consulte abaixo a **distribuição de candidatos por local e sala de prova** para a Prova de Ingresso 2024 a realizar no dia 17 de outubro de 2024:
+  * [Lisboa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Lisboa.pdf)
+  * [Porto](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Porto.pdf)
+  * [Coimbra](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Coimbra.pdf)
+
 * Publica-se a **[Lista definitiva de admitidos e excluídos](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Lista-homologada-002_FM.pdf)** ao Procedimento Concursal para Ingresso na formação especializada em Física Médica (11.10.2024)
 * **Lista definitiva de admitidos e excluídos ao procedimento concursal para ingresso na formação especializada em Física Médica (01.10.2024)**
   Consulte [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-01.10.2024-.pdf) a lista definitiva de admitidos e excluídos ao Procedimento Concursal para Ingresso na formação especializada em Física Médica 2025. Da lista cabe recurso para o Conselho Diretivo da ACSS, I.P, apresentado através do portal das candidaturas, entre os dias 2 a 8 de outubro.
