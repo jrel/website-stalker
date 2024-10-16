@@ -12,7 +12,7 @@ Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento
 **Alertas**
 
 * Consulte abaixo a **distribuição de candidatos por local e sala de prova** para a Prova de Ingresso 2024 a realizar no dia 17 de outubro de 2024:
-  * [Lisboa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Lisboa.pdf)
+  * [Lisboa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Lisboa_1.pdf)
   * [Porto](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Porto.pdf)
   * [Coimbra](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Coimbra.pdf)
 
