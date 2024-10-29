@@ -11,11 +11,11 @@ Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento
 
 **Alertas**
 
+* **Chave definitiva de respostas (29/10/2024)**
+  Nos termos do n.º 8.4, do Aviso n.º 19746-A/2024/2, de 3 de setembro, divulga-se a chave definitiva de respostas de cada versão da prova, que poderá consultar aqui. Na sequência das reclamações apresentadas à chave provisória da prova e verificadas 3 gralhas no enunciado, informa-se que foram anuladas 3 questões da prova, em conformidade com o disposto no n.º4 do artigo 4.º do Guia da Prova de Ingresso, disponível no site da ACSS [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Chave-Definitiva-de-Resposta-PI2025_1.pdf).
+
 * **Chave provisória de respostas (18/10/2024)**
-  Nos termos do n.º 8.1, Aviso n.º 19746-A/2024/2, de 3 de setembro, divulga-se a **chave provisória de respostas de cada versão da prova**, que poderá consultar [**aqui**](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Chave-Provisoria-de-Resposta-PIFM-2024.pdf). Da chave provisória da Prova de Ingresso cabe reclamação a apresentar no prazo de cinco dias úteis, após a sua divulgação (entre os dias 21 e 25 de outubro), a qual deve ser remetida para o canal [fisicamedica.drh@acss.min-saude.pt](mailto:fisicamedica.drh@acss.min-saude.pt) , nos termos do Guia de Orientações da Prova de Ingresso na Fisica Médica.
-
-  Divulga-se o enunciado da Prova de Ingresso **[aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/207-24_ACSS_Acesso_Fisica_Medica_Prova.pdf)**
-
+  Nos termos do n.º 8.1, Aviso n.º 19746-A/2024/2, de 3 de setembro, divulga-se a **chave provisória de respostas de cada versão da prova**, que poderá consultar [**aqui**](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Chave-Provisoria-de-Resposta-PIFM-2024.pdf). Da chave provisória da Prova de Ingresso cabe reclamação a apresentar no prazo de cinco dias úteis, após a sua divulgação (entre os dias 21 e 25 de outubro), a qual deve ser remetida para o canal [fisicamedica.drh@acss.min-saude.pt](mailto:fisicamedica.drh@acss.min-saude.pt) , nos termos do Guia de Orientações da Prova de Ingresso na Fisica Médica.Divulga-se o enunciado da Prova de Ingresso **[aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/207-24_ACSS_Acesso_Fisica_Medica_Prova.pdf)**
 * Consulte abaixo a **distribuição de candidatos por local e sala de prova** para a Prova de Ingresso 2024 a realizar no dia 17 de outubro de 2024:
   * [Lisboa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Lisboa_1.pdf)
   * [Porto](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Porto.pdf)
