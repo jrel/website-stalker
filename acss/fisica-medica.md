@@ -13,10 +13,9 @@ Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento
 
 * **Lista de Ordenação Provisória (31/10/2024)**
   Nos termos e ao abrigo do disposto no ponto 9.1 do Aviso n.º 19746-A/2024/2, de 3 de setembro procede-se à publicação da [lista de ordenação provisória](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM_Lista-de-Ordenacao-Provisoria_31.10.2024.pdf) relativa à Prova de Ingresso na Formação Especializada em Física Médica.
-  Da mencionada lista provisória de ordenação, cabe reclamação a apresentar, através da aplicação informática, no prazo máximo de cinco dias úteis após a sua publicitação, para o Conselho Diretivo da ACSS, ou seja, até ao dia 8 de novembro.
-
-  Mais informamos que, nos termos do que vem disposto no artigo 10.º da Portaria n.º 96/2024/1, de 11 de março, após a aplicação do primeiro critério de desempate (nota do mestrado ou de doutoramento), será, caso se revele necessário, realizado o sorteio.
-
+  Da mencionada lista provisória de ordenação, cabe reclamação a apresentar, através da aplicação informática, no prazo máximo de cinco dias úteis após a sua publicitação, para o Conselho Diretivo da ACSS, ou seja, até ao dia 8 de novembro.Mais informamos que, nos termos do que vem disposto no artigo 10.º da Portaria n.º 96/2024/1, de 11 de março, após a aplicação do primeiro critério de desempate (nota do mestrado ou de doutoramento), será, caso se revele necessário, realizado o sorteio.
+* **Mapa de Vagas | Diário da República (31/10/2024)**
+  Consulte **[aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Mapa-de-vagas-Fisica-Medica-DRE.pdf)** o mapa de vagas para o ingresso na especialização na área da Física Médica em janeiro de 2025.
 * **Mapa de Vagas (31/10/2024)**
   Torna-se público o [mapa de vagas](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-Mapa-de-vagas.pdf) da Física Médica, no âmbito do procedimento concursal para o ingresso na Formação Especializada em Física Médica 2025. Informa-se que o mencionado mapa foi hoje remetido para publicação em Diário da República.Mais se informam os candidatos que a lista de ordenação será publicada em conformidade com o disposto no ponto 9.1 do [Aviso de abertura](https://diariodarepublica.pt/dr/detalhe/aviso/19746-a-2024-886820511) e que o processo de escolhas decorrerá previsivelmente durante o mês de novembro na plataforma de candidaturas ao procedimento. As datas para o processo de escolhas, serão oportunamente divulgadas, neste site.
 * **Chave definitiva de respostas (29/10/2024)**
