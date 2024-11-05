@@ -107,8 +107,6 @@ Não são aceites pagamentos em numerário enviados por correio.
 
 Divulga-se os [critérios](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Criterios-idoneidade-formativa_v.-ACSS-revisao-28.09.23.pdf) e o [questionário de avaliação de idoneidade e capacidade formativa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Questionario-para-avaliacao-da-idoneidade-em-Fisica-Medica_v.-ACSS-rev-28.09.23_vf.pdf), o qual deverá ser preenchido pelas entidades interessadas, tendo em vista o desenvolvimento da formação especializada em física médica ao abrigo do disposto no n.º 2 do artigo 9.º do Regulamento do Especialista em Física Médica, aprovado em anexo à Portaria n.º 254/2021, de 16 de novembro.
 
-Mais se informa que o processo de reconhecimento de idoneidade e capacidade formativa em curso, se destina à colocação dos candidatos para frequência dos blocos formativos que se venham a revelar necessários no âmbito do procedimento do reconhecimento de especialistas em física médica, ao abrigo das disposições transitórias, dos n.ºs 5 e 6 do artigo 7.º da Portaria n.º 254/2021, de 16 de novembro.
-
 ### Conselho de Física Médica ###
 
 Composição do Conselho de Física Médica (CFM), conforme no n.º 2 do artigo 2.º da Portaria n.º 254/2021, de 16 de novembro:
