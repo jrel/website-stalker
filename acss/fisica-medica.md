@@ -1,4 +1,4 @@
-[Home](https://www.acss.min-saude.pt/)  » [Profissionais](https://www.acss.min-saude.pt/category/profissionais/)
+[Início](https://www.acss.min-saude.pt/)  » [Profissionais](https://www.acss.min-saude.pt/category/profissionais/)
 
 Especialista em Física Médica
 ==========
@@ -150,4 +150,4 @@ Reconhecimento Automático – n.<sup>os</sup> 1 e 2 do artigo 7.º da Portaria 
 
 ---
 
-[ Back ]()
+[ Voltar ]()
