@@ -74,6 +74,10 @@ A ACSS é a entidade competente para os seguintes reconhecimentos:
   – Consulte [**aqui**](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.acss.min-saude.pt%2Fwp-content%2Fuploads%2F2019%2F02%2F3.-Requerimento_fisica-medica_Excecao-reconhecimento-excecional.pdf&data=05%7C02%7Ccomunicacao%40acss.min-saude.pt%7C6bf61c95d64344977fad08dc6f66ea8e%7C22c84608f01d46c5802463cc962e5f51%7C0%7C0%7C638507735067728132%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=4vZMnE3UC81bzmeBltu6cTSHC92casKjYTMu3FRFVWI%3D&reserved=0) o requerimento**.**
   Os candidatos que já efetuaram o pedido ao abrigo desta disposição, apenas devem enviar a documentação em falta de acordo com as orientações disponíveis acima.
 
+### Programas de Formação ###
+
+Em conformidade com o disposto no n.º 2 do artigo 7.º e do n.º 6 do artigo 8.º do Regulamento anexo à Portaria n.º 254/2021, de 16 de novembro, publicam-se os [Programas de Formação Especializada](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Doc.-PF.-06.12.2024_Final.pdf) em Fisica Médica para as áreas de Radioterapia, Radiologia de Diagnóstico e Intervenção e Medicina Nuclear.
+
 ### Atribuição, renovação e obtenção de 2.ª via do certificado de Especialista em Física Médica ###
 
 A atribuição do título de especialista em física médica depende do cumprimento cumulativo dos requisitos previstos no n.º 1 do artigo 5.º do Anexo à Portaria n.º 254/2021, 16 de novembro, devendo, para o efeito, ser utilizado o requerimento disponível [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/4.-Requerimento_fisica-medica_qualif-portuguesas-atribuicao-do-titulo_pt.pdf).
