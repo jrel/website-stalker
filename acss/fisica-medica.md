@@ -11,6 +11,8 @@ Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento
 
 **Alertas**
 
+* **Lista definitiva de colocação (13/12/2024)**
+  Nos termos do n.º 8 do artigo 10.º do Regulamento anexo à Portaria n.º 96/2024/1, de 11 de março e em conformidade com o ponto 9.11 do Aviso n.º 19746-A/2024/2, de 3 de setembro, procede-se à publicação da lista definitiva de colocação relativa ao Procedimento Concursal para o ingresso na Formação Especializada em Física Médica em 2025, à qual pode aceder [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM_Lista-definitiva-de-colocados-na-formacao-especializada_13.12.2024.pdf).
 * **Lista provisória de colocação (28/11/2024)**
 * Nos termos do n.º 6 do artigo 10.º do Regulamento anexo à Portaria n.º 96/2024/1, de 11 de março e em conformidade com o ponto 9.8 do Aviso n.º 19746-A/2024/2, de 3 de setembro, procede-se à publicação da lista provisória de colocação relativa ao Procedimento Concursal para o ingresso na Formação Especializada em Fisica Médica em 2025, à qual pode aceder [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Lista-provisoria-de-colocacao_28_11_24.pdf).
   Da mencionada lista provisória de colocação, cabe reclamação a apresentar, através da aplicação informática, no prazo máximo de cinco dias úteis após a sua publicitação, ou seja, até ao dia 5 de dezembro (cf. n.º 7 do artigo 10.º do Regulamento em anexo à Portaria n.º 96/2024/1, de 11 de março e de acordo com o ponto 9.9 do ponto do Aviso n.º 19746-A/2024/2, de 3 de setembro).
