@@ -148,9 +148,7 @@ Dr. Fernando José Mendes de Oliveira Marques – área da Radiologia de diagnó
 
 ### Lista de Profissionais ###
 
-Reconhecimento Automático – n.<sup>os</sup> 1 e 2 do artigo 7.º da Portaria n.º 254/2021, de 16/11 – janeiro/2023
-
-[Lista de profissionais](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Lista-EFM_06042023.pdf)
+Consulte [**aqui**](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Lista-EFM_Portaria-254_2021.pdf) a Lista de profissionais Especialistas em Física Médica, reconhecidos de acordo com os n.ºs 1, 2, 3 e 4 do artigo 7.º da Portaria n.º 254/2021, de 16 de novembro, que se encontra em atualização.
 
 ### Legislação ###
 
