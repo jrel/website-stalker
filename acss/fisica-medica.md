@@ -5,6 +5,26 @@ Especialista em Física Médica
 
 A [Portaria n.º 254/2021, de 16 de novembro](https://dre.pt/dre/detalhe/portaria/254-2021-174357143), aprova o Regulamento do Reconhecimento do Especialista em Física Médica que determina as condições do processo de formação, certificação e renovação do título de especialista em física médica, em consonância com as orientações europeias aplicáveis, bem como o montante das taxas referentes ao respetivo reconhecimento.
 
+#### **Procedimentos concursais** ####
+
+### 2025 ###
+
+**01/09/2025**
+
+**Abertura de procedimento concursal para o ingresso na formação especializada em física médica**
+
+Informam-se os interessados que foi publicada a abertura do procedimento concursal para o ingresso na formação especializada em física médica em 2026, através do [**Aviso n.º 21797-A/2025/2, de 1 de setembro**](https://www.acss.min-saude.pt/wp-content/uploads/2025/09/Aviso-21797_A.2025.2.pdf), publicado em suplemento ao Diário da República n.º 167, 2ª série, de 01 de setembro. Nos termos do Aviso, os candidatos devem submeter a candidatura na plataforma criado para o efeito «Portal das candidaturas» de 02 de setembro até ao dia 15 de setembro de 2025.
+
+1. Clique no ícone “Plataforma” abaixo indicado para aceder à plataforma informática onde poderá efetuar a candidatura.
+
+[<img decoding="async" class="size-full wp-image-1964725 aligncenter" src="https://www.acss.min-saude.pt/wp-content/uploads/2019/02/plataformaFM2025.png" alt="" width="176" height="156">](https://portalcandidaturas.min-saude.pt/Candidato/)
+
+**Alerta**
+
+* No momento da candidatura, na área relativa aos “DOCUMENTOS NECESSÁRIOS”, no campo “COMPROVATIVO DE HABILITAÇÕES ACADÉMICAS”, deve adicionar o comprovativo de licenciatura. No campo ““COMPROVATIVO DE HABILITAÇÕES ACADÉMICAS – MESTRADO”, deve ser adicionado o comprovativo de Mestrado. Salienta-se a obrigatoriedade da junção dos dois documentos.
+
+### 2024 ###
+
 **03/09/2024**
 
 Foi aprovado em anexo à Portaria n.º 96/2024/1, de 11 de março, o regulamento que determina o processo de admissão de candidatos à formação especializada, conducente à obtenção do título de especialista em física médica, ao abrigo do disposto no n.º 4 do artigo 161.º do [Decreto-Lei n.º 108/2018](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiariodarepublica.pt%2Fdr%2Fdetalhe%2Fdecreto-lei%2F108-2018-117202785&data=05%7C02%7Cbboaventura%40acss.min-saude.pt%7Caa3de18986214bf1c24208dccc50a1b0%7C22c84608f01d46c5802463cc962e5f51%7C0%7C0%7C638609894495114604%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=nx29EKX4QvT3PpcQ%2FZRfSJJyJnBkRWyqyTmTivXTZZ8%3D&reserved=0), de 3 de dezembro.
