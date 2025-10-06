@@ -24,7 +24,7 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 * * Consulte abaixo a **distribuição de candidatos por local** para a Prova de Ingresso 2025 a realizar no dia 15 de outubro de 2025:
     [Lisboa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-lisboa.pdf)
-    [Porto](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-Porto.pdf)
+    [Porto](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-Porto-1.pdf)
     [Coimbra](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-Coimbra.pdf)
   * **Publica-se a Lista definitiva de admitidos e excluídos ao Procedimento Concursal para Ingresso na formação especializada em Física Médica (25.09.2025)**
     Consulte **[aqui](https://www.acss.min-saude.pt/wp-content/uploads/2025/09/FM2026_lista-definitiva-de-admitidos-e-excluidos_25.09.2025.pdf)** a lista definitiva de admitidos e excluídos ao Procedimento Concursal para Ingresso **na formação especializada em Física Médica** 2026.
