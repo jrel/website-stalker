@@ -22,7 +22,8 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 **Alerta**
 
-* * Consulte abaixo a **distribuição de candidatos por local** para a Prova de Ingresso 2025 a realizar no dia 15 de outubro de 2025:
+* * A prova de ingresso reger-se-á por um guia estabelecido pelo júri da prova de ingresso, cuja leitura se aconselha. Consulte aqui o [**guia de orientações**](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/Guia-Prova-de-Ingresso-Formacao-Especializada-Fisica-Medica-2025.pdf) para a Prova de Ingresso.
+  * Consulte abaixo a **distribuição de candidatos por local** para a Prova de Ingresso 2025 a realizar no dia 15 de outubro de 2025:
     [Lisboa](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-lisboa.pdf)
     [Porto](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-Porto-1.pdf)
     [Coimbra](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Distribuicao-de-candidatos-a-Prova-de-Ingresso-na-Fisica-Medica-2025-Coimbra.pdf)
