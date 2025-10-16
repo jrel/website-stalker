@@ -22,6 +22,11 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 **Alerta**
 
+* **Chave provisória de respostas (16/10/2025)**
+  Nos termos do n.º 8.1do Aviso n.º 21797-A/2025/2, de 1 de setembro, divulga-se a **chave provisória de respostas da prova**, que poderá consultar [**aqui**](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/PIFM-2025_Chave-Provisoria-de-Resposta.pdf).
+* Da chave provisória da Prova de Ingresso cabe reclamação a apresentar no prazo de cinco dias úteis, após a sua divulgação (entre os dias 17 e 23 de outubro), a qual deve ser remetida para o canal [fisicamedica.drh@acss.min-saude.pt](mailto:fisicamedica.drh@acss.min-saude.pt), nos termos do Guia de Orientações da Prova de Ingresso na Física Médica.
+* Publica-se o enunciado da prova [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/206-25_ACSS_Acesso_Fisica_Medica.pdf).
+
 * * Consulte [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Orientacoes-aos-candidatos-Prova-de-Ingresso-2025-FM.pdf) as orientações aos candidatos à Prova de Ingresso 2025 no âmbito do Procedimento Concursal para Ingresso na Formação Especializada em Física Médica 2026
   * A prova de ingresso reger-se-á por um guia estabelecido pelo júri da prova de ingresso, cuja leitura se aconselha. Consulte aqui o [**guia de orientações**](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/Guia-Prova-de-Ingresso-Formacao-Especializada-Fisica-Medica-2025.pdf) para a Prova de Ingresso.
   * Consulte abaixo a **distribuição de candidatos por local** para a Prova de Ingresso 2025 a realizar no dia 15 de outubro de 2025:
@@ -33,7 +38,8 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 Da lista definitiva caberá recurso, apresentado através do portal das candidaturas, entre os dias 26 de setembro e o dia 2 de outubro de 2025.
 
-* **Publica-se a Lista provisória de admitidos e excluídos ao Procedimento Concursal para Ingresso na formação especializada em Física Médica (16.09.2025)**Consulte **[aqui](https://www.acss.min-saude.pt/wp-content/uploads/2025/09/FM2026_lista-provisoria-de-admitidos-e-excluidos_16.09.202025.pdf)** a lista provisória de admitidos e excluídos ao Procedimento Concursal para Ingresso **na formação especializada em Física Médica** 2026. Da lista provisória caberá reclamação para o júri do concurso, apresentado através do portal das candidaturas, entre os dias 17 e o dia 23 de setembro de 2025.
+* **Publica-se a Lista provisória de admitidos e excluídos ao Procedimento Concursal para Ingresso na formação especializada em Física Médica (16.09.2025).**
+  Consulte **[aqui](https://www.acss.min-saude.pt/wp-content/uploads/2025/09/FM2026_lista-provisoria-de-admitidos-e-excluidos_16.09.202025.pdf)** a lista provisória de admitidos e excluídos ao Procedimento Concursal para Ingresso **na formação especializada em Física Médica** 2026. Da lista provisória caberá reclamação para o júri do concurso, apresentado através do portal das candidaturas, entre os dias 17 e o dia 23 de setembro de 2025.
 * No momento da candidatura, na área relativa aos “DOCUMENTOS NECESSÁRIOS”, no campo “COMPROVATIVO DE HABILITAÇÕES ACADÉMICAS”, deve adicionar o comprovativo de licenciatura. No campo ““COMPROVATIVO DE HABILITAÇÕES ACADÉMICAS – MESTRADO”, deve ser adicionado o comprovativo de Mestrado. Salienta-se a obrigatoriedade da junção dos dois documentos.
 
 |                                                                                                                                                                                                                                                                                                                                                                                       #### **DESTAQUES** ####                                                                                                                                                                                                                                                                                                                                                                                        |
