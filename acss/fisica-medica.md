@@ -22,11 +22,16 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 **Alerta**
 
+* **Mapa de vagas (30.10.2025)**
+  Torna-se público o [mapa de vagas](https://diariodarepublica.pt/dr/detalhe/aviso/27239-2025-942989399) da Física Médica, no âmbito do procedimento concursal para o ingresso na Formação Especializada em Física Médica 2026.
+  Mais se informam os candidatos que a lista de ordenação será publicada em conformidade com o disposto no ponto 9 do [Aviso de abertura](https://diariodarepublica.pt/dr/detalhe/aviso/21797-a-2025-933765569) e que o processo de escolhas decorrerá previsivelmente durante o mês de novembro na plataforma de candidaturas ao procedimento.
+* **Chave definitiva de resposta (30.10.2025)**
+  Nos termos do n.º 8.4, do Aviso n.º 21797-A/2025/2, de 1 de setembro, divulga-se a chave definitiva de respostas de cada versão da prova, que poderá consultar [**aqui**](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/Chave-Definitiva-de-Resposta-PIFM-2025-.pdf).
+  Na sequência das reclamações apresentadas à chave provisória da prova e verificadas 3 gralhas no enunciado, informa-se que foram anuladas 3 questões da prova, em conformidade com o disposto no n.º4 do artigo 4.º do Guia da Prova de Ingresso, disponível no site da ACSS.
 * **Chave provisória de respostas (16/10/2025)**
   Nos termos do n.º 8.1do Aviso n.º 21797-A/2025/2, de 1 de setembro, divulga-se a **chave provisória de respostas da prova**, que poderá consultar [**aqui**](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/PIFM-2025_Chave-Provisoria-de-Resposta.pdf).
 * Da chave provisória da Prova de Ingresso cabe reclamação a apresentar no prazo de cinco dias úteis, após a sua divulgação (entre os dias 17 e 23 de outubro), a qual deve ser remetida para o canal [fisicamedica.drh@acss.min-saude.pt](mailto:fisicamedica.drh@acss.min-saude.pt), nos termos do Guia de Orientações da Prova de Ingresso na Física Médica.
 * Publica-se o enunciado da prova [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/206-25_ACSS_Acesso_Fisica_Medica.pdf).
-
 * * Consulte [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Orientacoes-aos-candidatos-Prova-de-Ingresso-2025-FM.pdf) as orientações aos candidatos à Prova de Ingresso 2025 no âmbito do Procedimento Concursal para Ingresso na Formação Especializada em Física Médica 2026
   * A prova de ingresso reger-se-á por um guia estabelecido pelo júri da prova de ingresso, cuja leitura se aconselha. Consulte aqui o [**guia de orientações**](https://www.acss.min-saude.pt/wp-content/uploads/2025/10/Guia-Prova-de-Ingresso-Formacao-Especializada-Fisica-Medica-2025.pdf) para a Prova de Ingresso.
   * Consulte abaixo a **distribuição de candidatos por local** para a Prova de Ingresso 2025 a realizar no dia 15 de outubro de 2025:
