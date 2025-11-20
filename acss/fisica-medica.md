@@ -20,7 +20,12 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 [<img decoding="async" class="size-full wp-image-1964725 aligncenter" src="https://www.acss.min-saude.pt/wp-content/uploads/2019/02/plataformaFM2025.png" alt="" width="176" height="156">](https://portalcandidaturas.min-saude.pt/Candidato/)
 
-**Alerta**
+**Alertas**
+
+* ****Lista de ordenação definitiva (20/11/2025)****
+  Nos termos e ao abrigo do n.º4 do artigo 10.º da Portaria n.º 96/2024/1,de 11 de março, conjugado com o n.º 9.6 do Aviso n.º21797-A/2025/2, de 1 de setembro, procede-se à publicação da [lista definitiva de ordenação dos candidatos](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/Lista-de-Ordenacao-Definitiva-FM-2026.pdf).
+
+  Nos termos do n.º 5 do artigo 10.º da Portaria n.º 96/2024/1, de 11 de março e do ponto 9.7 do Aviso n.º 21797-A/2025/2, de 1 de setembro, os candidatos devem manifestar as ordens de preferência através do “Portal das Candidaturas”, (à qual pode aceder [aqui](https://portalcandidaturas.min-saude.pt/GestaoDeConcursos/Home.jsf)) entre as 00:00h do dia 21 de novembro e as 23:59h do dia 24 de novembro.
 
 * ****Lista de ordenação provisória relativa à Prova de Ingresso na Física Médica com aplicação do critério de desempate (11/11/2025)****
   Nos termos e ao abrigo do n.º2 do artigo 10.º da Portaria n.º 96/2024/1,de 11 de março, conjugado com o n.º 9.2 do Aviso n.º. Aviso n.º 21797-A/2025/2, de 1 de setembro, procede-se à publicação da lista de ordenação provisória relativa à Prova de Ingresso na Formação Especializada em Física Médica , após aplicação do critério de desempate (Nota Final Mestrado Integrado) a qual poderá aceder [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2025/11/FM_Lista-de-Ordenacao-Provisoria_criterios-desempate.pdf). Da mencionada lista, cabe reclamação a apresentar, através da aplicação informática, no prazo máximo de cinco dias úteis após a sua publicitação, ou seja, até ao dia 18 de novembro.
