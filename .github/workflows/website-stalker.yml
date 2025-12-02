@@ -24,6 +24,7 @@ jobs:
         uses: "kota65535/github-openvpn-connect-action@v3"
         with:
           config_file: client.ovpn
+          echo_config: false
           username: ${{ secrets.OPENVPN_USER }}
           password: ${{ secrets.OPENVPN_PASS }}
       - name: Run website-stalker
