@@ -22,6 +22,8 @@ Informam-se os interessados que foi publicada a abertura do procedimento concurs
 
 **Alertas**
 
+* **Lista definitiva de colocação (19/12/2025)**
+  Publica-se a [lista definitiva de colocação na Formação Especializada em Física Médica 2026](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-2026-Lista-definitiva-de-colocacao_1912.pdf), nos termos do ponto 9.11 do Aviso n.º 21797-A/2025/2, de 1 de setembro.
 * **Lista provisória de colocação (26/11/2025)**
   Nos termos do n.º 6 do artigo 10.º do Regulamento anexo à Portaria n.º 96/2024/1, de 11 de março e em conformidade com o ponto 9.8 do Aviso n.º 21797-A/2025/2, de 1 de setembro, procede-se à publicação da lista provisória de colocação relativa ao Procedimento Concursal para o ingresso na Formação Especializada em Fisica Médica em 2026, à qual pode aceder [aqui](https://www.acss.min-saude.pt/wp-content/uploads/2019/02/FM-2026-Lista-provisoria-de-colocacao-pdf.pdf).
   Da mencionada lista provisória de colocação, cabe reclamação a apresentar, através da aplicação informática, no prazo máximo de cinco dias úteis após a sua publicitação, ou seja, até ao dia 4 de dezembro (cf. n.º 7 do artigo 10.º do Regulamento em anexo à Portaria n.º 96/2024/1, de 11 de março e de acordo com o ponto 9.9 do ponto do Aviso n.º º 21797-A/2025/2, de 1 de setembro.
